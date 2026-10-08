@@ -1,1 +1,1 @@
-# Caso-pr-ctico-seminario
+# Caso práctico seminario UNAM
